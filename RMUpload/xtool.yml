@@ -1,0 +1,8 @@
+version: 1
+bundleID: com.drjgouveia.rmupload
+product: RMUpload
+infoPath: Info.plist
+iconPath: Resources/AppIcon.png
+extensions:
+  - product: RMUploadShare
+    infoPath: Support/RMUploadShare-Info.plist
